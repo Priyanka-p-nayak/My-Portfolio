@@ -13,8 +13,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 - Stylish contact section and footer
 
 ## 🛠 Built With
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 📬 Contact
